@@ -10,4 +10,4 @@ Economic burden of interstitial lung disease in a commercially insured populatio
 - Study lead: **Tsung-Ying Lee**
 - Publications: https://www.jmcp.org/doi/epdf/10.18553/jmcp.2022.28.7.786
 
-The objective of the study is to estimate the direct health care costs associated with ILD among patients with SjS in a representative sample of the commercially insured population in the United States.
+The objective of this study is to estimate the direct health care costs associated with ILD among patients with SjS in a representative sample of the commercially insured population in the United States.
