@@ -1,5 +1,3 @@
-# SjS-ILD-COI
-
 Economic burden of interstitial lung disease in a commercially insured population with Sjögren syndrome in the United States
 ========================================================================
 
