@@ -655,7 +655,7 @@ run;
 data T._temp_;
 set T._temp_;
 CCI = (MI_CCIpre * 1) + (CHF_CCIpre * 1) + (PVD_CCIpre * 1) + (CeVD_CCIpre * 1 ) + (CPD_CCIpre * 1) + (Dementia_CCIpre * 1)
-+ (Paralysis_CCIpre * 1) + (DMnocc_CCIpre * 1) + (DMcc_CCIpre * 2) + (Renal_CCIpre * 2) + (MildLiver_CCIpre * 1) + (ModSevLiver_CCIpre * 3) 
++ (Paralysis_CCIpre * 2) + (DMnocc_CCIpre * 1) + (DMcc_CCIpre * 2) + (Renal_CCIpre * 2) + (MildLiver_CCIpre * 1) + (ModSevLiver_CCIpre * 3) 
 + (PepUlcer_CCIpre * 1) + (Rheum_CCIpre * 1) + (AIDSHIV_CCIpre * 6) + (Malig_CCIpre * 2) + (MetSldTumor_CCIpre * 6);
 run;
 
