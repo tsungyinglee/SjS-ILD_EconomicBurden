@@ -7,4 +7,4 @@ Economic burden of interstitial lung disease in a commercially insured populatio
 - Study type: **Cost of Illness** 
 - Study lead: **Tsung-Ying Lee**
 - Publications: https://www.jmcp.org/doi/epdf/10.18553/jmcp.2022.28.7.786
-- Funding: None. This is a student-led class project of PHSR701 Research Method and PHSR702 Research Method II in University of Maryland Baltimore.
+- Funding: None. This is a student-led class project of PHSR701 Research Method and PHSR702 Research Method II at University of Maryland Baltimore.
